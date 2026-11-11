@@ -238,7 +238,6 @@ __marimo__/
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
