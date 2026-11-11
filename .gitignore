@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+/shelf/
+/workspace.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
 # Distribution / packaging
 .Python
 build/
